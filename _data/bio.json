@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "NRT Trainee",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Narayana Santhanam",
+    "label": "NRT PI",
+    "picture": "/img/profile.jpg",
+    "email": "nsanthan@hawaii.edu",
+    "phone": "808-956-9741",
+    "website": "https://nsanthan.github.io",
+    "summary": "Professor, Electrical and Computer Engineering department.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "nsanthan", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Learning Theory" },
+    { "name": "Statistics" },
+    { "name": "Information theory" },
+    { "name": "Machine Learning/AI" },
   ],
   "skills": [
     {
