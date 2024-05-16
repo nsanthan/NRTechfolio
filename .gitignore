@@ -6,3 +6,4 @@ _site/
 # Gemfile.lock
 .idea
 .history
+_config.yml~
